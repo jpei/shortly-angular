@@ -8,7 +8,7 @@ angular.module('shortly.links', [])
 })
 .directive('myShortLink', function() {
   return {
-    template: "<div id='container' class='link'> \
+    template: "<div id='container' class='link fx-rotate-clock'> \
       <img src='../../assets/redirect_icon.png'/> \
       <div class='info'> \
       <div class='visits'><span class='count'>{{link.visits}}</span>Visits</div> \

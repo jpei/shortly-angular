@@ -12,6 +12,13 @@
   "dependencies": {
     "angular": "~1.2.18",
     "angular-route": "~1.2.18",
-    "angular-mocks": "~1.2.18"
+    "angular-mocks": "~1.2.18",
+    "angular-animate": "~1.2",
+    "ngFx": "~1.0.6",
+    "angular-ui-router": "~0.2.13"
+  },
+  "resolutions": {
+    "angular": "~1.2.18",
+    "angular-animate": "~1.2"
   }
 }
